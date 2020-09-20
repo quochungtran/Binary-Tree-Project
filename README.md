@@ -5,7 +5,7 @@
 
 ## Technologies
 
-Projet est crée with:
+Projet est cré par:
 
 * C
 
