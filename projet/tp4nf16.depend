@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1600604765 source:/home/tran/drive-download-20200920T114522Z-001/tp4nf16/function.c
+	<stdio.h>
+	<stdlib.h>
+	"function.h"
+
+1600604711 /home/tran/drive-download-20200920T114522Z-001/tp4nf16/function.h
+
