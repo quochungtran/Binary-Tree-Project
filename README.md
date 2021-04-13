@@ -1,4 +1,4 @@
-# NF16_MiniProject 2 _ Arbres binaires
+# Arbres binaires Mini Project
 ## Introduction:
 
 * Ce projet a pour objectif de se familiariser avec les arbres binaires et les différentes opérations nécessaires pour les manipuler, ainsi que leur variante : les arbres binaires d’intervalles.
