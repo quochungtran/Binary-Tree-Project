@@ -1,4 +1,4 @@
-# Arbres binaires Mini Project
+# Arbres binaires Mini Projet
 ## Introduction:
 
 * Ce projet a pour objectif de se familiariser avec les arbres binaires et les différentes opérations nécessaires pour les manipuler, ainsi que leur variante : les arbres binaires d’intervalles.
